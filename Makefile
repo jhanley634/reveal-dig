@@ -27,7 +27,7 @@ lint: ruff-check
 	$(ACTIVATE) && mypy $(STRICT) .
 
 test:
-	$(ACTIVATE) && python -m unittest tests/*_test.py so_2026/m??/*/*_test.py
+	$(ACTIVATE) && python -m unittest tests/*_test.py
 
 CACHES := .mypy_cache/ .pyre/ .pytype/ .ruff_cache/
 clean-caches:
