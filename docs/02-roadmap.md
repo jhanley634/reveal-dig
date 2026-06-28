@@ -24,7 +24,7 @@ from all.
 
 Please refer to the project
 [background](01-background.md),
-which describes 811 and how dig notifcations
+which describes 811 and how dig notifications
 are only visible to a small subset of people
 who interact with Menlo Park properties.
 
