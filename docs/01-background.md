@@ -76,7 +76,7 @@ due to the buried irrigation plumbing and illumination wiring they maintain.
 Very few of them have online access to 811 locate tickets.
 In particular, they cannot see the Electronic White Lining
 markings that a larger facility owner, such as O'Connor Water,
-could see.
+can see.
 
 The city's Public Works department operates many facilities
 and has already subscribed to an 811 feed of proposed excavations.
@@ -84,6 +84,6 @@ and has already subscribed to an 811 feed of proposed excavations.
 We propose to offer textual and GIS graphical summaries of
 such excavations, complementing the street address information
 already supplied by the city via the Permit Portal.
-In the interest of transparency, we would like for all
-city residents to know what Excavators and Operators
-already know.
+In the interest of transparency, we would like for
+**all city residents** to know what Excavators and
+Operators already know.
